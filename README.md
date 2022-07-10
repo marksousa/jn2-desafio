@@ -1,6 +1,6 @@
 ## Instruções
 
-    Com o docker e docker-compose instalado e configurado, rodar a sequencia de comandos abaixo:
+Com o docker e docker-compose instalado e configurado, rodar a sequencia de comandos abaixo:
 
     - docker-compose up -d --build api
     - cd src
